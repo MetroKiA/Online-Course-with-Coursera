@@ -58,6 +58,10 @@ h1{
 	text-align: center;
 	margin-top: 10px;
 }
+h2{
+	align-content: center;
+	text-align: center;
+}
 /*food llc*/
 .navbar-brand { 
 	text-align: center;
@@ -90,7 +94,7 @@ h1{
 }
 
 /*home page*/
-.container {
+box.container {
   width: 100%;
   position: relative;
   box-shadow: 0 50px 50px #3F0C1F;
